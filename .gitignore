@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependency dirs (none required, but ignore if added later)
+node_modules/
